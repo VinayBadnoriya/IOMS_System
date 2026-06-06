@@ -1,5 +1,3 @@
-.env
-.env.local
 .venv/
 venv/
 node_modules/
@@ -10,3 +8,4 @@ __pycache__/
 *.md
 !README.md
 implementation-tracker.json
+config.bat
